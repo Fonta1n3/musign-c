@@ -8,7 +8,7 @@
 
 ## Copyright & License
 
-This code in this repository is Copyright © 2019 by Blockchain Commons, LLC, and is [licensed](./LICENSE.md) under the [spdx:BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html).
+This code in this repository is Copyright © 2019 by Blockchain Commons, LLC, and is [licensed](./LICENSE.md) under the [BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html).
 
 ## Contributing
 

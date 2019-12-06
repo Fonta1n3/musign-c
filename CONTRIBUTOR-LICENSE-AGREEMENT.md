@@ -52,4 +52,4 @@ I promise not to offer contributions that contain or depend on the work of other
 
 ---
 
-To sign this Contributor License Agreement, fill in `$name`, `$email`, `$repository_url`, and `$date` above. Then sign using GPG using the following command `gpg --armor --clearsign --output cla.YOURGPGFINGERPRINT.asc CONTRIBUTOR-LICENSE-AGREEMENT.md`, then either submit your signed Contributor License Agreement to this repo as a GPG signed Pull Request or email it to [ChristopherA@BlockchainCommons.com](mailto:ChristopherA@BlockchainCommons.com).
+To sign this Contributor License Agreement, fill in `$name`, `$email`, `$repository_url`, and `$date` above. Then sign using GPG using the following command `gpg --armor --clearsign --output cla.YOURGITHUBNAME.YOURGPGFINGERPRINT.asc CONTRIBUTOR-LICENSE-AGREEMENT.md`, then either submit your signed Contributor License Agreement to this repo as a GPG signed Pull Request or email it to [ChristopherA@BlockchainCommons.com](mailto:ChristopherA@BlockchainCommons.com).
